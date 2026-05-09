@@ -89,3 +89,13 @@ node birthdaycardgenerator.js "your prompt" --token "$NETA_TOKEN"
 The `--token` flag is the only way to provide the token — the script does not read environment variables or local files.
 
 This skill requires a Neta API token (free trial available at https://www.neta.art/open/).
+
+## Example Output
+
+```bash
+node birthdaycardgenerator.js "festive birthday greeting card design, vibrant celebratory composition with balloons, confetti, layered cake, candles, ribbons and floral accents, soft gradient background, decorative typography placeholder area, cheerful joyful aesthetic, polished print-ready greeting card layout"
+```
+
+![Example output](https://oss.talesofai.cn/picture/7e309d28-424d-4566-a974-e20ebddb9609.webp)
+
+> Prompt: *"festive birthday greeting card design, vibrant celebratory composition with balloons, confetti, layered cake, candles, ribbons and floral accents, soft gradient background, decorative typography placeholder area, cheerful joyful aesthetic, polished print-ready greeting card layout"*
